@@ -3,7 +3,7 @@
 A handcrafted, production-ready developer portfolio built using modern web technologies.  
 Designed to reflect my backend engineering focus, system design mindset, and clean architectural thinking.
 
-🔗 Live: https://your-portfolio-link.vercel.app  
+🔗 Live: https://teja-morla.vercel.app/ 
 📂 GitHub: https://github.com/TEJA2607/My-Portfolio
 
 ---
